@@ -1,6 +1,6 @@
 # Kaggle_airbus_detection_detectron_pytorch and unet training edition
 
-===========================================================================================================================
+========================================================================================================
 ## [My teamleader's program](https://github.com/pascal1129/kaggle_airbus_ship_detection)  is based on https://github.com/facebookresearch/Detectron ,since I have no environment of Caffe2,I reimplement my teamleader's program in pytorch-detectron .This repository is just for record some change. The perfect edition is in [My teamleader's program](https://github.com/pascal1129/kaggle_airbus_ship_detection) ,and this repository get the 21st in [Kaggle_airbus_ship_detection](https://www.kaggle.com/c/airbus-ship-detection)
 ---------------------------------------------------------------------------------------------------------------------------
 #### 1.pytorch_detectron link is https://github.com/roytseng-tw/Detectron.pytorch .Please refer to this link for detailed environmental configuration.
